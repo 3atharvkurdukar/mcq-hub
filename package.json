@@ -1,0 +1,26 @@
+{
+  "name": "mcq-hub",
+  "version": "0.1.0",
+  "description": "This is an online portal for conducting mcq tests locally",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3atharvkurdukar/mcq-hub.git"
+  },
+  "author": "Atharv Kurdukar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/3atharvkurdukar/mcq-hub/issues"
+  },
+  "homepage": "https://github.com/3atharvkurdukar/mcq-hub#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "bootstrap": "^4.3.1",
+    "express": "^4.16.4",
+    "hbs": "^4.0.4",
+    "mongoose": "^5.5.3"
+  }
+}

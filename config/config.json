@@ -1,0 +1,12 @@
+{
+    "development": {
+        "PORT": 3000,
+        "MONGODB_URI": "mongodb://localhost:27017/mcq-hub",
+        "JWT_SECRET": "vagksvkddgvbliuuhzdx"
+    },
+    "test": {
+        "PORT": 3000,
+        "MONGODB_URI": "mongodb://localhost:27017/mcq-hub-test",
+        "JWT_SECRET": "ayibciuaginkhglanvlh"
+    }
+}

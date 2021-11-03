@@ -26,6 +26,6 @@
     "lodash": "^4.17.19",
     "mongodb": "^3.2.3",
     "mongoose": "^5.7.5",
-    "validator": "^10.11.0"
+    "validator": "^13.7.0"
   }
 }

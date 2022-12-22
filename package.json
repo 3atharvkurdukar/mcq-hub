@@ -22,7 +22,7 @@
     "bootstrap": "^4.3.1",
     "express": "^4.16.4",
     "hbs": "^4.0.4",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "lodash": "^4.17.19",
     "mongodb": "^3.2.3",
     "mongoose": "^5.7.5",
